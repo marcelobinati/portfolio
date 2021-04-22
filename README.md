@@ -1,2 +1,6 @@
 # portfolio
-Site de Portfólio Webdeveloper e Front End
+Portfolio de Designer
+
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no GitHub

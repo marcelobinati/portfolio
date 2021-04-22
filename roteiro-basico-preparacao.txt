@@ -1,0 +1,18 @@
+Orietações Gerais Para Criação do Projeto
+
+Sites de referência:
+Criacao de Favicon - favicon.io
+Links CDN para fonts/icons avensone - https://cdnjs.com/libraries/font-awesome
+Google Fonts - https://fonts.google.com/ 
+
+No arquivo css:
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;600;800&family=Josefin+Slab:ital,wght@0,200;0,500;1,200;1,500&family=Mulish:ital,wght@0,200;0,400;1,200;1,400&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+Extensoes VSC
+Live Server - para executar a aplicação em tempo real (localhost:5500)
+Mithril Emmet - autocomplete syntax
+Auto Close Tag - fecha automaticamente tags HTML/XML
+GitLens - Exibir status do cóigo conforme as alterações realizadas (commit´s)
+Highlight Matching Tag - destaca as tags abertas e fechadas
+VS Color Picker - permite escolher cores
