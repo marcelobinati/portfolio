@@ -32,3 +32,43 @@ header {
     top: 30%;
     left: 15%;
 }
+
+.banner h1 {
+    color: #FFFFFF;
+    font-size: 3.5rem;
+    font-family: "Baloo Da 2", serif;
+    font-weight: 200;
+    text-shadow: .2rem .3em 2px rgba(0, 0, 0, 0.4);
+    line-height: 3.5rem;
+    margin-bottom: 2rem;
+}
+
+.banner p {
+    font-family: "Josefin Slab", serif;
+    color: #FFFFFF;
+    font-size: 2rem;
+    text-shadow: .2rem .3em 2px rgba(0, 0, 0, 0.4);
+    margin-bottom: 2rem;
+}
+
+.banner button {
+    font-family: "Muli", serif;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: #7F00FF;
+    letter-spacing: .1rem;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E100FF, #7F00FF);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 1rem 2rem;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.banner buttom:hover {
+    font-size: 1.2rem;
+}
