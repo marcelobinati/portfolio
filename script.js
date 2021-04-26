@@ -1,0 +1,1 @@
+var hamburguer = document.querySelector(".hamburguer");
